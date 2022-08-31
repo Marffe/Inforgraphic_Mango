@@ -1,2 +1,3 @@
-# Inforgraphic_Mango
-Sample page about Mangos :D
+# Inforgraphic Mango
+
+Sample page About MANGOS! :DDD
