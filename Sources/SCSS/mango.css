@@ -1,0 +1,48 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"); /* 400 and 600 */
+/* Variables */
+/* Base */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+
+/* Media Queries */
+/* Default */
+/* Media Query Base */
+/* @media (min-width: AAA) and (max-width: AAA) {
+
+}
+*/
+nav {
+  height: 64px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(60, 60, 60);
+  color: rgb(255, 255, 255);
+}
+nav .logo {
+  width: 50%;
+  font-family: "Righteous";
+  font-size: 48px;
+  margin: 16px;
+}
+nav .link {
+  width: 50%;
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 16px;
+}
+nav .link a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}/*# sourceMappingURL=mango.css.map */
